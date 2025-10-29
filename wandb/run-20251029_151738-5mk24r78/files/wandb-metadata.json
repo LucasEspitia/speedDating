@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-10-29T14:17:38.637862Z",
+  "program": "Lucas.ipynb",
+  "codePath": "Lucas.ipynb",
+  "codePathLocal": "Lucas.ipynb",
+  "git": {
+    "remote": "https://github.com/LucasEspitia/speedDating.git",
+    "commit": "3d9d92238bafd055d6c1c09a2eec179729354f94"
+  },
+  "email": "adriquirante@gmail.com",
+  "root": "C:\\Users\\maria\\OneDrive\\Escritorio\\ADRI\\Q7 (Erasmus)\\Introduction to Neural Networks\\Neural_Networks\\speedDating",
+  "host": "MAR",
+  "executable": "C:\\Users\\maria\\OneDrive\\Escritorio\\ADRI\\Q7 (Erasmus)\\Introduction to Neural Networks\\Neural_Networks\\Scripts\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "510902923264",
+      "used": "210116767744"
+    }
+  },
+  "memory": {
+    "total": "8215060480"
+  },
+  "writerId": "ogay2fwfrgowz8cxel9qze80n8cujqsg"
+}

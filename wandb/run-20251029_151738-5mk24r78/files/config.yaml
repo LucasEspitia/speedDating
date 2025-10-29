@@ -1,0 +1,99 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            ogay2fwfrgowz8cxel9qze80n8cujqsg:
+                codePath: Lucas.ipynb
+                codePathLocal: Lucas.ipynb
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "510902923264"
+                        used: "210116767744"
+                email: adriquirante@gmail.com
+                executable: C:\Users\maria\OneDrive\Escritorio\ADRI\Q7 (Erasmus)\Introduction to Neural Networks\Neural_Networks\Scripts\python.exe
+                git:
+                    commit: 3d9d92238bafd055d6c1c09a2eec179729354f94
+                    remote: https://github.com/LucasEspitia/speedDating.git
+                host: MAR
+                memory:
+                    total: "8215060480"
+                os: Windows-10-10.0.26100-SP0
+                program: Lucas.ipynb
+                python: CPython 3.11.9
+                root: C:\Users\maria\OneDrive\Escritorio\ADRI\Q7 (Erasmus)\Introduction to Neural Networks\Neural_Networks\speedDating
+                startedAt: "2025-10-29T14:17:38.637862Z"
+                writerId: ogay2fwfrgowz8cxel9qze80n8cujqsg
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 1
+                - 2
+                - 13
+                - 16
+            "4": 3.11.9
+            "5": 0.22.3
+            "8":
+                - 1
+                - 3
+            "10":
+                - 20
+            "12": 0.22.3
+            "13": windows-amd64
+L1_lambda:
+    value: 0
+L2_lambda:
+    value: 0.0001
+activation:
+    value: relu
+batch_size:
+    value: 32
+beta1:
+    value: 0.9
+beta2:
+    value: 0.999
+dropout_rate:
+    value: 0
+early_stopping_patience:
+    value: 5
+epochs:
+    value: 50
+epsilon:
+    value: 1e-08
+gradient_clipping:
+    value: 0
+hidden_layers:
+    value:
+        - 1
+input_dim:
+    value: 15
+learning_rate:
+    value: 0.001
+loss_function:
+    value: binary_cross_entropy
+momentum:
+    value: 0.9
+optimizer:
+    value: sgd
+output_dim:
+    value: 1
+run_name:
+    value: Experiment1
+scheduler:
+    value: None
+skip_connections:
+    value: false
+use_batch_norm:
+    value: false
+weight_init:
+    value: uniform
