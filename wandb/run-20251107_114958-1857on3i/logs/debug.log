@@ -1,0 +1,24 @@
+2025-11-07 11:49:58,051 INFO    MainThread:27496 [wandb_init.py:setup_run_log_directory():706] Logging user logs to C:\Users\maria\OneDrive\Escritorio\ADRI\Q7 (Erasmus)\Introduction to Neural Networks\Neural_Networks\speedDating\wandb\run-20251107_114958-1857on3i\logs\debug.log
+2025-11-07 11:49:58,052 INFO    MainThread:27496 [wandb_init.py:setup_run_log_directory():707] Logging internal logs to C:\Users\maria\OneDrive\Escritorio\ADRI\Q7 (Erasmus)\Introduction to Neural Networks\Neural_Networks\speedDating\wandb\run-20251107_114958-1857on3i\logs\debug-internal.log
+2025-11-07 11:49:58,053 INFO    MainThread:27496 [wandb_init.py:init():833] calling init triggers
+2025-11-07 11:49:58,053 INFO    MainThread:27496 [wandb_init.py:init():838] wandb.init called with sweep_config: {}
+config: {'input_dim': 15, 'output_dim': 1, 'hidden_layers': (1,), 'activation': 'relu', 'weight_init': 'uniform', 'use_batch_norm': False, 'dropout_rate': 0.0, 'skip_connections': False, 'optimizer': 'sgd', 'learning_rate': 0.001, 'momentum': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'batch_size': 32, 'epochs': 50, 'gradient_clipping': 0.0, 'scheduler': 'None', 'L1_lambda': 0.0, 'L2_lambda': 0.0001, 'early_stopping_patience': 5, 'loss_function': 'binary_cross_entropy', 'run_name': 'Experiment1', '_wandb': {}}
+2025-11-07 11:49:59,187 INFO    MainThread:27496 [wandb_init.py:init():881] starting backend
+2025-11-07 11:49:59,187 INFO    MainThread:27496 [wandb_init.py:init():884] sending inform_init request
+2025-11-07 11:49:59,195 INFO    MainThread:27496 [wandb_init.py:init():892] backend started and connected
+2025-11-07 11:49:59,204 INFO    MainThread:27496 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2025-11-07 11:49:59,238 INFO    MainThread:27496 [wandb_run.py:_label_probe_notebook():1338] Unable to probe notebook: 'charmap' codec can't decode byte 0x9d in position 2284763: character maps to <undefined>
+2025-11-07 11:49:59,241 INFO    MainThread:27496 [wandb_init.py:init():962] updated telemetry
+2025-11-07 11:49:59,422 INFO    MainThread:27496 [wandb_init.py:init():986] communicating run to backend with 90.0 second timeout
+2025-11-07 11:49:59,912 INFO    MainThread:27496 [wandb_init.py:init():1033] starting run threads in backend
+2025-11-07 11:50:00,481 INFO    MainThread:27496 [wandb_run.py:_console_start():2506] atexit reg
+2025-11-07 11:50:00,482 INFO    MainThread:27496 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-11-07 11:50:00,483 INFO    MainThread:27496 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-11-07 11:50:00,484 INFO    MainThread:27496 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-11-07 11:50:00,496 INFO    MainThread:27496 [wandb_init.py:init():1073] run started, returning control to user process
+2025-11-07 11:50:00,499 INFO    MainThread:27496 [wandb_watch.py:_watch():68] Watching
+2025-11-07 11:51:00,260 INFO    MainThread:27496 [wandb_run.py:_finish():2272] finishing run adriquirante-slovak-university-of-technology-in-bratislava/SpeedDating_MLP/1857on3i
+2025-11-07 11:51:00,263 INFO    MainThread:27496 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-11-07 11:51:00,265 INFO    MainThread:27496 [wandb_run.py:_restore():2453] restore
+2025-11-07 11:51:00,266 INFO    MainThread:27496 [wandb_run.py:_restore():2459] restore done
+2025-11-07 11:51:01,342 INFO    MainThread:27496 [wandb_run.py:_footer_sync_info():3835] logging synced files
