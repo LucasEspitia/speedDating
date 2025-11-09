@@ -1,0 +1,12 @@
+{"time":"2025-11-09T23:36:01.4149586+01:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-09T23:36:02.0463142+01:00","level":"INFO","msg":"stream: created new stream","id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:02.047431+01:00","level":"INFO","msg":"handler: started","stream_id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:02.0546266+01:00","level":"INFO","msg":"writer: started","stream_id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:02.0558203+01:00","level":"INFO","msg":"sender: started","stream_id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:02.0564562+01:00","level":"INFO","msg":"stream: started","id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:46.0065571+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-09T23:36:46.3801768+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-09T23:36:46.4197932+01:00","level":"INFO","msg":"stream: closing","id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:46.4197932+01:00","level":"INFO","msg":"handler: closed","stream_id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:46.4204689+01:00","level":"INFO","msg":"sender: closed","stream_id":"awaqmsvm"}
+{"time":"2025-11-09T23:36:46.4204689+01:00","level":"INFO","msg":"stream: closed","id":"awaqmsvm"}
